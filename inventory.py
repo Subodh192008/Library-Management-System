@@ -1,4 +1,4 @@
-# Library Book Inventory Management
+# College Library Book Inventory Management
 stock = {
     "python_basics": 3,
     "data_structures": 4,
