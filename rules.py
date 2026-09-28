@@ -1,4 +1,4 @@
-# Ensuring each student has borrowed fewer than 2 books
+# Ensuring each student has borrowed not more than 2 books at an instant.
 
 from borrowers import loans
 
