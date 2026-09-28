@@ -1,4 +1,4 @@
-# Library Management System - Main Menu Loop
+# Importing all the modules and running them  together
 from inventory import stock, update_stock
 from borrowers import loans, add_loan, return_loan
 from rules import can_borrow
